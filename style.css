@@ -283,4 +283,14 @@ margin: 25px auto;
     .sectionSubTag{
         text-align: justify;
     }
+    .form-input {
+        margin: 18px auto;
+        width: 69%;
+        font-size: 19px;
+        border: 2px solid grey;
+        border-radius: 6px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
 }
